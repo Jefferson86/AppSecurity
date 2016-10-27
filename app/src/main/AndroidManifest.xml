@@ -15,7 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".incidencia"></activity>
+        <activity android:name=".incidencia" />
+        <activity android:name=".configuracion" />
+        <activity android:name=".persona" />
+        <activity android:name=".datos"></activity>
     </application>
 
 </manifest>
