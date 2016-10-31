@@ -12,6 +12,13 @@
     android:orientation="vertical"
     tools:context="security.cbc.com.appsecurity.incidencia">
 
+    <TextView
+        android:text="Ingreso / Salida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_weight="0.11" />
+
     <ImageButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

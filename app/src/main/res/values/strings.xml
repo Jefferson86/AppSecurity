@@ -2,7 +2,7 @@
     <string name="app_name">AppSecurity</string>
     <string name="titulo_usuario">Usuario:</string>
     <string name="titulo_contrasena">Contraseña:</string>
-    <string name="hin_titulo_usuario">Ingresa el usuario</string>
-    <string name="hin_titulo_contrasena">Ingresa la contraseña</string>
+    <string name="hin_titulo_usuario">Usuario</string>
+    <string name="hin_titulo_contrasena">Contraseña</string>
     <string name="tbtn_ingresar">Ingresar</string>
 </resources>
